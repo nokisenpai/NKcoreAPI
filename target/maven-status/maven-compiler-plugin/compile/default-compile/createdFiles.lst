@@ -1,0 +1,13 @@
+ovh\lumen\NKcore\api\data\NKWorld.class
+ovh\lumen\NKcore\api\data\packet\ReceivedData.class
+ovh\lumen\NKcore\api\NKcoreAPI.class
+ovh\lumen\NKcore\api\data\packet\ServersQueryResponse.class
+ovh\lumen\NKcore\api\data\packet\PlayersQueryResponse.class
+ovh\lumen\NKcore\api\data\DBAccess.class
+ovh\lumen\NKcore\api\data\NKServer.class
+ovh\lumen\NKcore\api\data\packet\QueryType.class
+ovh\lumen\NKcore\api\NKcoreEventAPI.class
+ovh\lumen\NKcore\api\data\packet\ErrorResponse.class
+ovh\lumen\NKcore\api\data\packet\ErrorResponseType.class
+ovh\lumen\NKcore\api\data\PlayerInfo.class
+ovh\lumen\NKcore\api\NKcoreBungee.class
