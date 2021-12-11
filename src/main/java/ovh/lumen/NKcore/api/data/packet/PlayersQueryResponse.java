@@ -29,7 +29,7 @@ public class PlayersQueryResponse extends ReceivedData
 	}
 
 	/**
-	 * Return the list of player information as List<PlayerInfo>
+	 * Return the list of player information
 	 *
 	 * @return List of player information
 	 */

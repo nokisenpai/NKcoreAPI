@@ -27,7 +27,7 @@ public class ServersQueryResponse extends ReceivedData
 	}
 
 	/**
-	 * Return the list of server name as List<String>
+	 * Return the list of server name
 	 *
 	 * @return List of server name
 	 */

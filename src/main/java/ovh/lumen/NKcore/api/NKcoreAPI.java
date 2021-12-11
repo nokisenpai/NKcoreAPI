@@ -17,14 +17,18 @@ public interface NKcoreAPI
 	 * Return the server information where the plugin is
 	 *
 	 * @return Server information
+	 *
+	 * @see NKServer
 	 */
 	NKServer getNKServer();
 
 	/**
-	 * Return a map of world information as Map<String, NKWorld>
+	 * Return a map of world information
 	 * Key is the world name
 	 *
 	 * @return Map of world information
+	 *
+	 * @see NKWorld
 	 */
 	Map<String, NKWorld> getNKWorlds();
 
